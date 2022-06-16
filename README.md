@@ -8,7 +8,7 @@
           h1{
 	       color: rgb(3, 217, 95);
 	       font-family: cursive;
-    	  }
+    	    }
 	      h2{
 	          font-size: 14px;
 	      }
